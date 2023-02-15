@@ -9,8 +9,8 @@ public class se {
 	}
 	public static void main(String[] args){
 		se h=new se();
-		h.s1(12,"Swa");
-		h.s1("Swa",12);
+		h.s1(12,"Swa");   	//1st method
+		h.s1("Swa",12);		//2nd method
 		
 	}
 }
